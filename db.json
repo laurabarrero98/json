@@ -1,0 +1,19 @@
+{
+    "webs": [
+        {
+          "id": 1,
+          "name": "canva",
+          "url": "https://www.canva.com/es_es/" 
+        },
+        {
+          "id": 2,
+          "name": "clash",
+          "url": "https://royaleapi.com/"
+        },
+        {
+          "id": 3,
+          "name": "chicle",
+          "url": "https://www.podiumpodcast.com/estirando-el-chicle/"
+        }
+      ]
+}
